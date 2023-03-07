@@ -1,0 +1,15 @@
+{
+  "name": "host",
+  "private": false,
+  "modular": {
+    "type": "esm-view"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "@modular-scripts/modular-types": "^1.2.0",
+    "@modular-scripts/remote-view": "^0.1.2",
+    "@salt-ds/core": "^1.2.0",
+    "@salt-ds/lab": "^1.0.0-alpha.2",
+    "@salt-ds/theme": "^1.0.0"
+  }
+}
